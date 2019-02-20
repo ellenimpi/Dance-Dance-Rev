@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{39A60D6F-1C74-97DF-9A02-46B0A229C2AD}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TimeBar.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControllerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/TimeBar.cs" Line="18" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
